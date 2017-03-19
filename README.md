@@ -17,3 +17,9 @@ Since then, the cow has been displayed in countless outreach activities.
  Arduino uses an HC-05 bluetooth module to communicate with the phone.
  * The android app was written using
  [MIT App Inventor](http://appinventor.mit.edu/explore/)
+
+### Dependencies
+ * We used the
+ [Adafruit PWM Servo Shield](https://www.adafruit.com/product/1411) to 
+ control all of the servos in the cow. Make sure to download the library for it
+ [here](https://github.com/adafruit/Adafruit-PWM-Servo-Driver-Library).
